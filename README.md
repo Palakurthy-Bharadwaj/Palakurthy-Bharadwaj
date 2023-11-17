@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palakurthy-Bharadwaj, a passionate developer from India
 - 👀 I’m interested in Machine learning, Data Analytics and Deep learning
-- 🌱 I’m currently learning web development and ways to integrate web development with A.I and M.L
+- 🌱 I’m currently learning deep learning and generative A.I
 - 📫 Reach me out on ...
    - LinkedIn : https://www.linkedin.com/in/bharadwaj-palakurthy/
    - Gmail : palakurthybharadwaj012@gmail.com 
